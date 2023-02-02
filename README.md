@@ -1,7 +1,10 @@
 # VAR_Project
 
-Written in Matlab. 
+Written as coursework for MPhil Economic Research @ University of Cambridge
 
+Last edit: 29/01/2023
+
+#
 This code constructs a bivariate VAR using UK data on unemployment 
 and GDP per capita. (See GDP PC.xls and UR.xls for raw data or 
 project_data.xlsx for the combined speadsheet) 
@@ -12,7 +15,7 @@ economy.
 
 The baseline model uses the window 1971-2019 with 4 lags, a VAR(4). 
 
--------------------------------------------------------------------
+#
 Download project_code.m for the code.
 
 The three related functions: 
